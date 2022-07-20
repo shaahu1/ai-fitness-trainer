@@ -54,7 +54,7 @@ header table {
     width:40%;
 }
 #navigation {
-    width:80%;
+    width:50%;
 }
 #magnify {
     width:100vw;
@@ -97,8 +97,9 @@ header table {
     text-decoration:none;
     padding:5px 10px;
     border-bottom:2px solid transparent;
-    margin-left:4vw;
+    margin-left:2vw;
     transition:0.4s ease-in-out;
+
 }
 #navigation a:hover{
     border-bottom:2px solid #fff;
@@ -235,7 +236,6 @@ header table {
 #researchDiv2 img{
     width: 100%;
     align-items: center;
-    background-color: aqua;
 }
 
 .twoboxContainer{
@@ -244,8 +244,9 @@ header table {
 }
 
 #contact {
-    width:92vw;
+    width: 80%;
     padding:6vh 4vw;
+    margin: auto;
 }
 #contact h1 {
     padding:5px 0px;
