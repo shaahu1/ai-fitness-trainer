@@ -433,7 +433,7 @@ button:focus {
 }
 
 
-#intro, #objectTag, #worksTag, #teamTag{
+#intro, #objectTag, #worksTag, #teamTag, #contactTag{
     height: 30px;
 }
 
